@@ -12,30 +12,6 @@ body {
   height: 100%;  
 }
 
-.github {
-  position: absolute;
-  margin: 8px;
-  padding: 12px;
-  
-  cursor: pointer;
-  font-family: 'Open Sans';
-  color: #fefae0;
-  text-decoration: none;
-  background-color: #d4a373;
-  
-  border: 1px solid pink;
-  border-radius: 16px;
-  
-  transition: ease scale 0.2s;
-}
-.github:hover {
-  scale: 1.05;
-}
-.github:active {
-  transition-time: 0.05s;
-  scale: 1.025;
-}
-
 .ar-button {
   position: absolute;
   right: 0;
